@@ -13,7 +13,7 @@
 #           base_url: /my-blog/
 #           domain: my-site.com
 base_url: /
-domain:
+domain: chrisstafford.io
 
 
 #
@@ -21,15 +21,15 @@ domain:
 #
 
 # Used in header meta tags and the site feed. (required to generate a valid feed)
-author: author
+author: Christopher Stafford
 # A description of your site to be used in header meta tags.
 description:
 # Used in the site feed.
-email:
+email: chris@chrisstafford.io
 # Your site's subtitle.
-subtitle: subtitle
+subtitle: a place to write and store information
 # Your site's title. (required to generate a valid feed)
-title: title
+title: chrisstafford_io
 
 
 #
