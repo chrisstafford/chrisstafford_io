@@ -39,3 +39,11 @@ archive_layout: archive.html
 archives_url: /archives/
 tag_layout: tag.html
 tags_url: /archives/
+
+date_format: %A, %d %B, %Y
+pygmentize: true
+
+social:
+  github: https://github.com/chrisstafford
+  twitter: https://twitter.com/chrisstafford
+  stack_exchange: http://stackoverflow.com/users/2745072/christopher-stafford
